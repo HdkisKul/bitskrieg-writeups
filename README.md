@@ -12,12 +12,6 @@ Challenge writeups from the BITSkrieg mentor group. You can do everything in you
 5. Click **Commit changes…** (or **Propose changes**), then **Create pull request** on the next page.
    GitHub creates your own copy of the repo (a *fork*) and opens the pull request for you.
 
-### Adding screenshots
-
-1. On your pull request page, scroll to the comment box at the bottom and paste (Ctrl+V) or drag in your screenshot.
-2. GitHub uploads it and puts a line like `![image](https://github.com/user-attachments/assets/...)` in the box.
-3. Copy that line into your writeup where the screenshot belongs, then post the comment or delete it. The link works either way.
-
 To edit your writeup later, open **Files changed** on your pull request, click **⋯ → Edit file**, and commit. The pull request updates itself.
 
 ## After you submit
