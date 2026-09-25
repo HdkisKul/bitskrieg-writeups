@@ -1,6 +1,6 @@
 # BITSkrieg Writeups
 
-Challenge writeups from the BITSkrieg mentor group. You can do everything in your browser, with no git needed.
+Challenge writeups from Hunger Games. You can do everything in your browser, with no git needed.
 
 ## How to submit
 
