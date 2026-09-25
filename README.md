@@ -1,6 +1,6 @@
 # BITSkrieg Writeups
 
-Challenge writeups from the BITSkrieg mentor group. You can do everything in your browser, with no git needed. You need to be added as a collaborator first, so ask a mentor.
+Challenge writeups from the BITSkrieg mentor group. You can do everything in your browser, with no git needed.
 
 ## How to submit
 
@@ -9,8 +9,8 @@ Challenge writeups from the BITSkrieg mentor group. You can do everything in you
 3. Name the file `writeups/<challenge-name>-<your-github-handle>.md`, for example `writeups/cookie-monster-alice.md`.
    Use lowercase and hyphens, no spaces. Typing the `/` creates the folder for you.
 4. Paste the template and fill in every section.
-5. Click **Commit changes…**. In the box that opens, select **Create a new branch for this commit and start a pull request**. Don't choose "Commit directly to the main branch".
-6. Click **Propose changes**, then **Create pull request** on the next page.
+5. Click **Commit changes…** (or **Propose changes**), then **Create pull request** on the next page.
+   GitHub creates your own copy of the repo (a *fork*) and opens the pull request for you.
 
 To edit your writeup later, open **Files changed** on your pull request, click **⋯ → Edit file**, and commit. The pull request updates itself.
 
